@@ -1,1 +1,2 @@
-# Prescaler_MsTicker, a nonblocking-Async-MilliSecond-Ticker
+# Prescaler_MsTicker
+A nonblocking-Async-MilliSecond-Ticker
