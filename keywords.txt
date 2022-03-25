@@ -1,0 +1,26 @@
+#######################################
+# Syntax Coloring Map Prescaler_MsTicker
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Prescaler_MsTicker	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+begin	KEYWORD2
+setInterval	KEYWORD2
+getInterval	KEYWORD2
+update	KEYWORD2
+setStatus	KEYWORD2
+getStatus	KEYWORD2
+clearStatus	KEYWORD2
+incStatus	KEYWORD2
+decStatus	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
